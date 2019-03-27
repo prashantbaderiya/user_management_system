@@ -1,0 +1,4 @@
+demo:
+  build: .
+  ports:
+    - "80:80"
