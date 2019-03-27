@@ -1,6 +1,6 @@
 # User Management System 
 
-1. Create/Update/Delete/View/Search User
+1. Create/Update/Delete/View/Search User(s) and Group(s)
 2. Used Docker
 3. Model-View-Controller implementation
 4. APIs implementation
